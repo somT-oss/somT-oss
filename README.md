@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<!--
-**somT-oss/somT-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on improving my Django skills 
+- 🌱 I’m currently learning JavaScript  
+- 👯 I’m looking to collaborate on a django project  
+- 🤔 I’m looking for help with open source contribution 
+- 💬 Ask me about Python, Django
+- 📫 How to reach me: [Twitter](https://twitter.com/SomtochukwuUch1)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I write technical articles 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My blog
+  [Somtochukwu's Blog](https://somtochukwu.hashnode.dev/)
