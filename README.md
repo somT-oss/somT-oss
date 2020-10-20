@@ -1,4 +1,5 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### My name is Somtochukwu Uchegbu 
 
 - 🔭 I’m currently working on improving my Django skills 
 - 🌱 I’m currently learning JavaScript  
