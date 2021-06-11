@@ -1,8 +1,8 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ### My name is Somtochukwu Uchegbu 
 
-- 🔭 I’m currently working on improving my python and JavaScript skills 
-- 🌱 I’m currently learning PHP
+- 🔭 I’m currently working on improving my python skills  
+- 🌱 I’m currently learning TypeScript
 - 👯 I’m looking to collaborate on a django project  
 - 🤔 I’m looking for help with open source contribution 
 - 💬 Ask me about Python, Django
